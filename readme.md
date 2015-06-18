@@ -28,6 +28,7 @@ Andreas Håkansson, Kristian Hellang
  
 ## Changelog
 
+- v1.7.2 - Animated PR file collapse/expand :sparkles:
 - v1.7.1 - Removed ugly `aria-label`s
 - v1.7.0
 	- Removed truncation in notifications - @khellang
