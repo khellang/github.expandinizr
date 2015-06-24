@@ -22,7 +22,7 @@
             return false;
         });
 
-        $('.comment-form-head.tabnav .right').prepend('<a class=\"tabnav-extra btn-shrink\" href=\"#\"><span class=\"octicon octicon-move-left\"></span> Shrink</a>');
+        $('.timeline-comment .comment-form-head.tabnav .right').prepend('<a class=\"tabnav-extra btn-shrink\" href=\"#\"><span class=\"octicon octicon-move-left\"></span> Shrink</a>');
 
         $('.btn-shrink').click(function(event) {
             var comment = $(this).closest('.timeline-comment');
